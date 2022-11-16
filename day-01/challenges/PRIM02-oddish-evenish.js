@@ -8,3 +8,4 @@ function oddishOrEvenish(number) {
 }
 
 console.log(oddishOrEvenish(2445));
+console.log(oddishOrEvenish(123));
